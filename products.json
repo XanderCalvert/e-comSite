@@ -1,0 +1,100 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Super Mario 64",
+        "price": 30.95,
+        "image": { "fields": { "file": { "url": "./images/product-01.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Banjo-Kazooie",
+        "price": 21.95,
+        "image": { "fields": { "file": { "url": "./images/product-02.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "The Legend of Zelda: Ocarina of Time",
+        "price": 32.95,
+        "image": { "fields": { "file": { "url": "./images/product-03.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "GoldenEye 007",
+        "price": 46.95,
+        "image": { "fields": { "file": { "url": "./images/product-04.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Star Wars Episode I: Racer",
+        "price": 18.95,
+        "image": { "fields": { "file": { "url": "./images/product-05.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Pokémon Snap",
+        "price": 11.95,
+        "image": { "fields": { "file": { "url": "./images/product-06.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Pokémon Stadium",
+        "price": 24.95,
+        "image": { "fields": { "file": { "url": "./images/product-07.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Rayman 2: The Great Escape",
+        "price": 17.95,
+        "image": { "fields": { "file": { "url": "./images/product-08.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "Mario Party",
+        "price": 29.95,
+        "image": { "fields": { "file": { "url": "./images/product-09.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "Mario Kart 64",
+        "price": 10.95,
+        "image": { "fields": { "file": { "url": "./images/product-10.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "WWF: No Mercy",
+        "price": 48.95,
+        "image": { "fields": { "file": { "url": "./images/product-11.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "Diddy Kong Racing",
+        "price": 20.95,
+        "image": { "fields": { "file": { "url": "./images/product-12.jpg" } } }
+      }
+    }
+  ]
+}
